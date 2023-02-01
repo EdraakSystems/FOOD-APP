@@ -5,8 +5,18 @@
 - Install packages with `yarn` or `npm install`.
   - If you have native iOS code run `npx pod-install`
 - Run `yarn start` to start the bundler.
-# Food-App
 
+
+# Food-App
+Say goodbye to the hassle of cooking and restaurant hopping with Food Delivery App - the ultimate food delivery solution. With Food Delivery App, you can browse and order from a wide selection of restaurants and food categories, all from the comfort of your own home.
+
+Restaurant search: Easily find your favorite restaurants or discover new ones with Food Delivery App's restaurant search function.
+
+Food and drink categories: Browse a variety of food and drink categories to find the perfect meal for your cravings.
+
+Add to cart functionality: With just a few taps, you can add items to your cart and proceed to checkout.
+
+Convenient delivery: Sit back and relax as Food Delivery App delivers your food straight to your doorstep.
 
 
 # ScreenShoots
