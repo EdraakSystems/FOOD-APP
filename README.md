@@ -1,45 +1,17 @@
-# My Universal React Project
 
-<p>
-  <!-- iOS -->
-  <a href="https://itunes.apple.com/app/apple-store/id982107779">
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  </a>
-  <!-- Android -->
-  <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample">
-    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  </a>
-  <!-- Web -->
-  <a href="https://docs.expo.dev/workflow/web/">
-    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-  </a>
-</p>
 
 ## 🚀 How to use
 
 - Install packages with `yarn` or `npm install`.
   - If you have native iOS code run `npx pod-install`
 - Run `yarn start` to start the bundler.
-- Open the project in a React runtime to try it:
-  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
-  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
-  - Web: Any web browser
-
-## Adding Native Code
-
-This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
-
-- Run `yarn eject` to create the native projects.
-- You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
-
-## Publishing
-
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
-
-## 📝 Notes
-
-- Learn more about [Universal React](https://docs.expo.dev/).
-- See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
-- Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
 # Food-App
+
+
+
+# ScreenShoots
+![215695851-87b72c07-4515-4a9e-813b-2907dd87ec6e](https://user-images.githubusercontent.com/121944629/216051392-4e55281f-e603-43fd-a99d-64aa4b89be96.png)
+![215695867-07b6fd85-20c1-4d3c-b942-52effbaaf963 (1)](https://user-images.githubusercontent.com/121944629/216051431-2efb7267-efec-48fd-a5c6-5afaf24df807.png)
+![215695867-07b6fd85-20c1-4d3c-b942-52effbaaf963](https://user-images.githubusercontent.com/121944629/216051434-2c6a2116-5bdc-4415-9dcd-e6a09e1c442a.png)
+![215695882-b87cb85b-7f3d-4c53-873c-2c6faa4b8b5a](https://user-images.githubusercontent.com/121944629/216051438-c08e3c1f-6cbf-4261-9764-9aebf7fdcfa0.png)
+![215695889-85ff20ac-b4fd-4950-8519-923f3205ea29](https://user-images.githubusercontent.com/121944629/216051442-058e6992-abfb-4241-813d-31e560d84d1b.png)
